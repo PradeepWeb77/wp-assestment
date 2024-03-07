@@ -1,0 +1,64 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Voting Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-06 14:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: pvote"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wordpress.org"
+msgstr ""
+
+#: includes/templates/voting-form.php:26
+msgid "No"
+msgstr ""
+
+#. Author of the plugin
+msgid "Pradip"
+msgstr ""
+
+#: includes/templates/voting-form.php:35
+msgid "Thank you for your feedback."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"User will have option to provide positive and negative feedback to the "
+"individual post"
+msgstr ""
+
+#: includes/class-pvote-public.php:75
+msgid "Vote submitted successfully"
+msgstr ""
+
+#: includes/admin/class-pvote-admin.php:43
+msgid "Voting Results"
+msgstr ""
+
+#: includes/templates/voting-form.php:13
+msgid "Was this article helpful?"
+msgstr ""
+
+#. Name of the plugin
+msgid "WordPress Voting Plugin"
+msgstr ""
+
+#: includes/templates/voting-form.php:20
+msgid "Yes"
+msgstr ""
+
+#: includes/class-pvote-public.php:79
+msgid "You have already voted for this post"
+msgstr ""
